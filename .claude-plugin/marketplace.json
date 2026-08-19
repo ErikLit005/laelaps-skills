@@ -1,0 +1,19 @@
+{
+  "name": "laelaps",
+  "description": "Laelaps AI internal Claude Code plugins.",
+  "owner": {
+    "name": "Laelaps AI"
+  },
+  "plugins": [
+    {
+      "name": "laelaps-skills",
+      "description": "Working skills for the Laelaps team: humanize drafted copy, grill a plan before committing to it, and hand a conversation off to a fresh session.",
+      "author": {
+        "name": "Laelaps AI"
+      },
+      "category": "productivity",
+      "source": "./",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "laelaps-skills",
+  "version": "1.0.0",
+  "description": "Working skills for the Laelaps team: humanize drafted copy, grill a plan before committing to it, and hand a conversation off to a fresh session.",
+  "author": {
+    "name": "Laelaps AI"
+  },
+  "keywords": [
+    "writing",
+    "planning",
+    "handoff",
+    "gtm"
+  ]
+}
